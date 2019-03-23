@@ -1,0 +1,101 @@
+{
+	"region": {
+		"name": {
+			"__cdata": "Oregon"
+		},
+		"georeferencing": {
+			"_lat": "44.2609372503992",
+			"_lng": "-120.91552734374999",
+			"_zoom": "5"
+		},
+		"maps": {
+			"_count": "125"
+		},
+		"skiAreas": {
+			"skiArea": [
+				{
+					"_id": "264",
+					"__cdata": "Anthony Lakes Mountain Resort"
+				},
+				{
+					"_id": "272",
+					"__cdata": "Cooper Spur Ski Area"
+				},
+				{
+					"_id": "5259",
+					"__cdata": "Dixie Mountain"
+				},
+				{
+					"_id": "265",
+					"__cdata": "Ferguson Ridge"
+				},
+				{
+					"_id": "4915",
+					"__cdata": "High Wallowas"
+				},
+				{
+					"_id": "268",
+					"__cdata": "Hoodoo Ski Area"
+				},
+				{
+					"_id": "274",
+					"__cdata": "Mt. Ashland Ski & Snowboard Resort"
+				},
+				{
+					"_id": "270",
+					"__cdata": "Mt. Bachelor"
+				},
+				{
+					"_id": "271",
+					"__cdata": "Mt. Hood Meadows Ski Resort"
+				},
+				{
+					"_id": "263",
+					"__cdata": "Mt. Hood SkiBowl"
+				},
+				{
+					"_id": "269",
+					"__cdata": "Spout Springs"
+				},
+				{
+					"_id": "273",
+					"__cdata": "Summit Ski Area"
+				},
+				{
+					"_id": "266",
+					"__cdata": "Timberline Ski Area"
+				},
+				{
+					"_id": "12993",
+					"__cdata": "Tomahawk Ski Bowl"
+				},
+				{
+					"_id": "2279",
+					"__cdata": "Warner Canyon"
+				},
+				{
+					"_id": "267",
+					"__cdata": "Willamette Pass"
+				}
+			]
+		},
+		"parents": {
+			"region": [
+				{
+					"_id": "1",
+					"_level": "1",
+					"__cdata": "Americas"
+				},
+				{
+					"_id": "187",
+					"_level": "2",
+					"__cdata": "United States"
+				}
+			]
+		},
+		"_id": "312",
+		"_abbreviation": "OR ",
+		"_level": "3",
+		"_type": "Principal Subdivision"
+	}
+}

@@ -1,0 +1,129 @@
+{
+	"region": {
+		"name": {
+			"__cdata": "Washington"
+		},
+		"georeferencing": {
+			"_lat": "47.2046423887669",
+			"_lng": "-120.69580078125",
+			"_zoom": "5"
+		},
+		"maps": {
+			"_count": "199"
+		},
+		"skiAreas": {
+			"skiArea": [
+				{
+					"_id": "195",
+					"__cdata": "49 Degrees North Mountain Resort"
+				},
+				{
+					"_id": "187",
+					"__cdata": "Badger Mountain Ski Area"
+				},
+				{
+					"_id": "185",
+					"__cdata": "Bluewood"
+				},
+				{
+					"_id": "4804",
+					"__cdata": "Chewelah Peak ski Hill"
+				},
+				{
+					"_id": "193",
+					"__cdata": "Crystal Mountain Resort"
+				},
+				{
+					"_id": "4815",
+					"__cdata": "Early Winter Resort"
+				},
+				{
+					"_id": "3322",
+					"__cdata": "Echo Valley Ski Area"
+				},
+				{
+					"_id": "1024",
+					"__cdata": "Hurricane Ridge"
+				},
+				{
+					"_id": "3323",
+					"__cdata": "Leavenworth Ski Hill"
+				},
+				{
+					"_id": "192",
+					"__cdata": "Loup Loup Ski Bowl"
+				},
+				{
+					"_id": "3324",
+					"__cdata": "Meany Lodge"
+				},
+				{
+					"_id": "186",
+					"__cdata": "Mission Ridge Ski Area"
+				},
+				{
+					"_id": "4876",
+					"__cdata": "Mt Pilchuck ski resort"
+				},
+				{
+					"_id": "191",
+					"__cdata": "Mt. Baker Ski Area"
+				},
+				{
+					"_id": "189",
+					"__cdata": "Mt. Spokane Ski Area"
+				},
+				{
+					"_id": "5040",
+					"__cdata": "Paradise"
+				},
+				{
+					"_id": "3325",
+					"__cdata": "Sahalie Ski Club"
+				},
+				{
+					"_id": "3326",
+					"__cdata": "Sahalie Ski Club"
+				},
+				{
+					"_id": "188",
+					"__cdata": "Sitzmark Ski Hill"
+				},
+				{
+					"_id": "190",
+					"__cdata": "Stevens Pass Ski Area"
+				},
+				{
+					"_id": "194",
+					"__cdata": "The Summit at Snoqualmie / Alpental"
+				},
+				{
+					"_id": "184",
+					"__cdata": "White Pass Ski Area"
+				},
+				{
+					"_id": "3961",
+					"__cdata": "Yodelin"
+				}
+			]
+		},
+		"parents": {
+			"region": [
+				{
+					"_id": "1",
+					"_level": "1",
+					"__cdata": "Americas"
+				},
+				{
+					"_id": "187",
+					"_level": "2",
+					"__cdata": "United States"
+				}
+			]
+		},
+		"_id": "322",
+		"_abbreviation": "WA ",
+		"_level": "3",
+		"_type": "Principal Subdivision"
+	}
+}

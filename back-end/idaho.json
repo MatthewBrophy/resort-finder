@@ -1,0 +1,153 @@
+{
+	"region": {
+		"name": {
+			"__cdata": "Idaho"
+		},
+		"georeferencing": {
+			"_lat": "45.213003555994",
+			"_lng": "-113.818359375",
+			"_zoom": "5"
+		},
+		"maps": {
+			"_count": "147"
+		},
+		"skiAreas": {
+			"skiArea": [
+				{
+					"_id": "2768",
+					"__cdata": "Bald Mountain (not Sun Valley)"
+				},
+				{
+					"_id": "5199",
+					"__cdata": "Bear Gulch"
+				},
+				{
+					"_id": "4651",
+					"__cdata": "Blizzard Mountain"
+				},
+				{
+					"_id": "487",
+					"__cdata": "Bogus Basin"
+				},
+				{
+					"_id": "483",
+					"__cdata": "Brundage Mountain Resort"
+				},
+				{
+					"_id": "5345",
+					"__cdata": "Caribou"
+				},
+				{
+					"_id": "13586",
+					"__cdata": "Chipmunk Hill"
+				},
+				{
+					"_id": "484",
+					"__cdata": "Cottonwood Butte"
+				},
+				{
+					"_id": "5243",
+					"__cdata": "Hitt Mountain"
+				},
+				{
+					"_id": "486",
+					"__cdata": "Kelly Canyon Ski Area"
+				},
+				{
+					"_id": "3009",
+					"__cdata": "Little Ski Hill"
+				},
+				{
+					"_id": "482",
+					"__cdata": "Lookout Pass"
+				},
+				{
+					"_id": "4378",
+					"__cdata": "Lost Trail"
+				},
+				{
+					"_id": "490",
+					"__cdata": "Magic Mountain Ski Resort"
+				},
+				{
+					"_id": "4921",
+					"__cdata": "North South Bowl"
+				},
+				{
+					"_id": "478",
+					"__cdata": "Pebble Creek Ski Area"
+				},
+				{
+					"_id": "12861",
+					"__cdata": "Pine Basin"
+				},
+				{
+					"_id": "477",
+					"__cdata": "Pomerelle Ski Area"
+				},
+				{
+					"_id": "3306",
+					"__cdata": "Rotarun Ski Area"
+				},
+				{
+					"_id": "476",
+					"__cdata": "Schweitzer Mountain Resort"
+				},
+				{
+					"_id": "479",
+					"__cdata": "Silver Mountain Resort"
+				},
+				{
+					"_id": "489",
+					"__cdata": "Snowhaven Ski Area"
+				},
+				{
+					"_id": "485",
+					"__cdata": "Soldier Mountain"
+				},
+				{
+					"_id": "480",
+					"__cdata": "Sun Valley - Bald Mountain"
+				},
+				{
+					"_id": "2293",
+					"__cdata": "Sun Valley - Dollar Mountain"
+				},
+				{
+					"_id": "5244",
+					"__cdata": "Sunset Lodge"
+				},
+				{
+					"_id": "5230",
+					"__cdata": "Tamarack (Moscow Mtn)"
+				},
+				{
+					"_id": "488",
+					"__cdata": "Tamarack Resort"
+				},
+				{
+					"_id": "4927",
+					"__cdata": "Taylor Mountain"
+				}
+			]
+		},
+		"parents": {
+			"region": [
+				{
+					"_id": "1",
+					"_level": "1",
+					"__cdata": "Americas"
+				},
+				{
+					"_id": "187",
+					"_level": "2",
+					"__cdata": "United States"
+				}
+			]
+		},
+		"_id": "287",
+		"_abbreviation": "ID ",
+		"_level": "3",
+		"_type": "Principal Subdivision"
+	}
+}

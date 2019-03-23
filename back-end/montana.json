@@ -1,0 +1,129 @@
+{
+	"region": {
+		"name": {
+			"__cdata": "Montana"
+		},
+		"georeferencing": {
+			"_lat": "46.83013364044739",
+			"_lng": "-109.3798828125",
+			"_zoom": "5"
+		},
+		"maps": {
+			"_count": "212"
+		},
+		"skiAreas": {
+			"skiArea": [
+				{
+					"_id": "12987",
+					"__cdata": "Bear Canyon"
+				},
+				{
+					"_id": "2982",
+					"__cdata": "Bear Paw Ski Bowl"
+				},
+				{
+					"_id": "13756",
+					"__cdata": "Beartooth Basin"
+				},
+				{
+					"_id": "5346",
+					"__cdata": "Beef Trail"
+				},
+				{
+					"_id": "361",
+					"__cdata": "Big Sky Resort"
+				},
+				{
+					"_id": "363",
+					"__cdata": "Blacktail Mountain Ski Area"
+				},
+				{
+					"_id": "375",
+					"__cdata": "Bridger Bowl Ski Area"
+				},
+				{
+					"_id": "5411",
+					"__cdata": "Deep Creek"
+				},
+				{
+					"_id": "366",
+					"__cdata": "Discovery Ski Area"
+				},
+				{
+					"_id": "371",
+					"__cdata": "Great Divide Snowsports"
+				},
+				{
+					"_id": "374",
+					"__cdata": "Lost Trail Powder Mountain"
+				},
+				{
+					"_id": "362",
+					"__cdata": "Marshall Mountain"
+				},
+				{
+					"_id": "370",
+					"__cdata": "Maverick Mountain Ski Area"
+				},
+				{
+					"_id": "368",
+					"__cdata": "Montana Snowbowl"
+				},
+				{
+					"_id": "373",
+					"__cdata": "Moonlight Basin"
+				},
+				{
+					"_id": "364",
+					"__cdata": "Red Lodge Mountain"
+				},
+				{
+					"_id": "365",
+					"__cdata": "Showdown Ski Area"
+				},
+				{
+					"_id": "1026",
+					"__cdata": "Spanish Peaks Resort"
+				},
+				{
+					"_id": "372",
+					"__cdata": "Teton Pass Ski Area"
+				},
+				{
+					"_id": "369",
+					"__cdata": "Turner Mountain"
+				},
+				{
+					"_id": "367",
+					"__cdata": "Whitefish Mountain Resort"
+				},
+				{
+					"_id": "5080",
+					"__cdata": "Wraith Hill"
+				},
+				{
+					"_id": "1025",
+					"__cdata": "Yellowstone Club"
+				}
+			]
+		},
+		"parents": {
+			"region": [
+				{
+					"_id": "1",
+					"_level": "1",
+					"__cdata": "Americas"
+				},
+				{
+					"_id": "187",
+					"_level": "2",
+					"__cdata": "United States"
+				}
+			]
+		},
+		"_id": "301",
+		"_abbreviation": "MT ",
+		"_level": "3",
+		"_type": "Principal Subdivision"
+	}
+}
